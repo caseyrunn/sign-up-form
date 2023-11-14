@@ -51,3 +51,13 @@ table {
     font-family: norse-bold;
     src: url(fonts/Norse-Bold.otf);
 }
+
+h1 {
+    font-family: norse-bold;
+}
+
+h2,
+h3,
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
