@@ -71,3 +71,10 @@ body div {
     display: flex;
     flex-direction: column;
 }
+
+.hero-div {
+    background: center url(images/halie-west-25xggax4bSA-unsplash.jpg);
+    background-size: 100vh;
+    width: 32vw;
+    height: 100vh;
+}
