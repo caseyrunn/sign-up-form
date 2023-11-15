@@ -79,7 +79,7 @@ body div {
     flex-direction: column;
     justify-content: center;
     background: center url(images/halie-west-25xggax4bSA-unsplash.jpg);
-    background-size: 100vh;
+    background-size: cover;
     width: 40vw;
     height: 100vh;
 }
