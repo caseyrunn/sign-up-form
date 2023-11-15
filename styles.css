@@ -54,6 +54,8 @@ table {
 
 h1 {
     font-family: norse-bold;
+    color: white;
+    font-size: 5rem;
 }
 
 h2,
@@ -73,8 +75,24 @@ body div {
 }
 
 .hero-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     background: center url(images/halie-west-25xggax4bSA-unsplash.jpg);
     background-size: 100vh;
-    width: 32vw;
+    width: 40vw;
     height: 100vh;
+}
+
+.hero-div div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding:1rem;
+}
+
+
+.odin-logo {
+    height: 6rem;
 }
