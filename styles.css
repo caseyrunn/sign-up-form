@@ -187,3 +187,8 @@ a {
     color: #596D48;
     font-weight: 700;
 }
+
+input:invalid {
+    outline: none;
+    border: solid 1px red;
+}
