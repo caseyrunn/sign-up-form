@@ -163,3 +163,9 @@ input {
     border-radius: 3px;
     width: 18rem;
 }
+
+input:focus {
+    outline: none;
+    border: solid 1px blue;
+    box-shadow: .1rem .1rem .3rem .1rem rgba(0,0,0,0.19);
+}
